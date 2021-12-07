@@ -1,7 +1,8 @@
 {
     "events":[
-        {"id": 1,
-            "name": "Throwback Fridays with FemiDevs Band",
+        {
+            "id": 1,
+            "name": "Throwback Fridays with Femidevs",
             "slug": "throwback-fridays-femidevs",
             "venue": "Horizon Center",
             "address": "600, 13th avenue Kisumu",
@@ -23,10 +24,19 @@
             "time": "9:00am EAT",
             "description": "featuring dances, party anthems and nolstagic songs from the best years music",
             "image":"/images/sample/event2.jpg"
+        },
+
+        {
+             "id": 3,
+            "name": "Music Festival extension",
+            "slug": "music-festival-femidevs",
+            "venue": "Lakehub",
+            "address": "2200, 23rd avenue Kisumu",
+            "performers": "Dj Pris",
+            "date": "November 27th 2021",
+            "time": "9:00am EAT",
+            "description": "featuring classicals, violins and party songs from the early 2000s",
+            "image":"/images/sample/event3.jpg"
         }
-
-
-
-
     ]
 }
